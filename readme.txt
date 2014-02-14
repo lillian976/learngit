@@ -5,3 +5,4 @@ Git tracks changes.
 Creating a new branch is quick and simple.
 merge dev
 for both of us modify this file.
+for other modify dev
